@@ -4,6 +4,8 @@
 
 ![Cypress spec](./images/spec.png)
 
+Read the blog post [Cypress Module Problem](https://glebbahmutov.com/blog/cypress-module-problem/)
+
 ## Install and open Cypress
 
 ```
