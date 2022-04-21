@@ -1,4 +1,4 @@
-# my-svelte-app
+# my-svelte-app [![ci](https://github.com/bahmutov/my-svelte-app/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/bahmutov/my-svelte-app/actions/workflows/ci.yml)
 
 > Example [Svelte Kit app](https://kit.svelte.dev/) with [Cypress](https://cypress.io) tests
 
