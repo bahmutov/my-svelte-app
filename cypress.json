@@ -1,6 +1,7 @@
 {
-	"fixturesFolder": false,
-	"supportFile": false,
-	"baseUrl": "http://localhost:3000",
-	"testFiles": "**/*spec.js"
+  "fixturesFolder": false,
+  "supportFile": false,
+  "baseUrl": "http://localhost:3000",
+  "testFiles": "**/*spec.js",
+  "projectId": "9r6hy4"
 }
